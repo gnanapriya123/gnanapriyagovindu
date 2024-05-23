@@ -1,0 +1,308 @@
+.logo{
+    position:absolute;
+    left: 200px;
+    top:20px;
+}
+
+.options{
+    display: flex;
+    font-size: 18px;
+    /*position:absolute;
+    left:800px;*/
+    margin-top:40px;
+    align-items: center;
+    
+}
+
+.option1{
+    position:absolute;
+    left:1000px;
+}
+
+.option2{
+    position: absolute;
+    left:1100px;
+}
+
+.option3{
+    position:absolute;
+    left:1200px;
+}
+
+.option1:hover{
+    color:#9E3FFD;
+}
+
+.option2:hover{
+    color:#9E3FFD;
+}
+
+.option3:hover{
+    color:#9E3FFD;
+}
+
+.heading1{
+    position:absolute;
+    left:230px;
+    top:150px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #16163F;
+}
+
+.para1{
+    font-size: 15px;
+    font-family: Open,sans-serif;
+    color:#48474a;
+}
+
+.textbox1{
+    position: absolute;
+    left: 230px;
+    top:350px;
+}
+
+.email{
+    height:43px;
+    width: 304px;
+    padding: 3px 3px 3px 14px;
+}
+
+.search-button1{
+    height: 40px;
+    width: 144px;
+    position: absolute;
+    left:350px;
+    top:5px;
+    background-color: #0352fc;
+    color: white;
+    border: none;
+    font-family:'Courier New';
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.illustration1{
+    height: 315px;
+    width: 425px;
+    position: relative;
+    left:55%;
+    top:210px;
+}
+
+.curve{
+    position: relative;
+    top: 250px;
+    left:50px; 
+}
+
+.heading2{
+    position:absolute;
+    left:230px;
+    top:760px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #16163F;
+}
+
+.para2{
+    font-size: 18px;
+    font-family: Open,sans-serif;
+    color:#48474a;
+}
+
+.info{
+    position:absolute;
+    left:230px;
+    top:990px;
+    height: 19px;
+    width: 150px;
+    font-size: 16px;
+    color:#14952B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;  
+    text-decoration: underline solid #14952B 3px;  
+}
+
+.add-arrow{
+    position: relative;
+    bottom: 17px;
+    left: 150px;
+    height: 18px;
+    width: 18px;
+}
+
+.quotes{
+    position:absolute;
+    left:260px;
+    top:1070px;
+    
+}
+
+.add-quotes{
+   height: 18px;
+   width:  18px;
+}
+
+.para3{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #48474a;
+}
+
+.add-avatar{
+    border-radius: 50%;
+    height: 38px;
+    width:  38px;
+}
+
+.name{
+    position: relative;
+    left:50px;
+    bottom:55px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.status{
+    position: relative;
+    left: 50px;
+    bottom: 65px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.illustration2{
+    height: 315px;
+    width: 425px;
+    position: relative;
+    left:57%;
+    top:430px;
+}
+
+.footer1{
+    height: 237px;
+    width: 100%;
+    background-color: #4B419a;
+    position: relative;
+    top:560px;
+}
+
+.heading3{
+    position:relative;
+    left:230px;
+    top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.para4{
+    position:relative;
+    left:230px;
+    top: 50px;
+    font-family: Open,sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.add-name{
+    position: relative;
+    left:800px;
+    bottom:75px;
+    height: 35px;
+    width: 406px;
+    border-radius:3px;
+    border:none;
+    padding: 3px 3px 3px 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.search-button2{
+    position: relative;
+    left: 375px;
+    bottom:25px;
+    height: 35px;
+    width: 174px;
+    background-color: #0D64C1;
+    color: white;
+    border: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.footer2{
+    height: 321px;
+    width: 100%;
+    background-color: #0D083B;
+    position: relative;
+    top:72px;
+}
+
+.logo2{
+    position:relative;
+    left:240px;
+    top:90px;
+    
+}
+
+.phone{
+    position:relative;
+    left:50px;
+    top:140px;
+}
+
+.number{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: 250px;
+    top:100px;
+}
+
+.mail-icon{
+    position:relative;
+    left:220px;
+    top:110px;
+}
+
+.mail{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: 250px;
+    top:73px;
+}
+
+.details1{
+    position: relative;
+    left: 600px;
+    bottom:20px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.details2{
+    position: relative;
+    left: 750px;
+    bottom:164px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.icons{
+    position: relative;
+    bottom:320px;
+    left:1000px;
+    background-color: white;
+    display:inline;
+    height: 250px;
+    width: 250px;
+}
+
